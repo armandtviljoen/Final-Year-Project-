@@ -1,0 +1,20 @@
+C:\Users\arman\OneDrive\Desktop\SerialCOMMS\bin\Debug\SerialCOMMS.exe.config
+C:\Users\arman\OneDrive\Desktop\SerialCOMMS\bin\Debug\SerialCOMMS.exe
+C:\Users\arman\OneDrive\Desktop\SerialCOMMS\bin\Debug\SerialCOMMS.pdb
+C:\Users\arman\OneDrive\Desktop\SerialCOMMS\obj\Debug\SerialCOMMS.csproj.AssemblyReference.cache
+C:\Users\arman\OneDrive\Desktop\SerialCOMMS\obj\Debug\SerialCOMMS.Form1.resources
+C:\Users\arman\OneDrive\Desktop\SerialCOMMS\obj\Debug\SerialCOMMS.Properties.Resources.resources
+C:\Users\arman\OneDrive\Desktop\SerialCOMMS\obj\Debug\SerialCOMMS.csproj.GenerateResource.cache
+C:\Users\arman\OneDrive\Desktop\SerialCOMMS\obj\Debug\SerialCOMMS.csproj.CoreCompileInputs.cache
+C:\Users\arman\OneDrive\Desktop\SerialCOMMS\obj\Debug\SerialCOMMS.exe
+C:\Users\arman\OneDrive\Desktop\SerialCOMMS\obj\Debug\SerialCOMMS.pdb
+D:\Enjineering\Endless Suffering\EERI 474 -Final Year Project\Code\SerialCOMMS\bin\Debug\SerialCOMMS.exe.config
+D:\Enjineering\Endless Suffering\EERI 474 -Final Year Project\Code\SerialCOMMS\bin\Debug\SerialCOMMS.exe
+D:\Enjineering\Endless Suffering\EERI 474 -Final Year Project\Code\SerialCOMMS\bin\Debug\SerialCOMMS.pdb
+D:\Enjineering\Endless Suffering\EERI 474 -Final Year Project\Code\SerialCOMMS\obj\Debug\SerialCOMMS.csproj.AssemblyReference.cache
+D:\Enjineering\Endless Suffering\EERI 474 -Final Year Project\Code\SerialCOMMS\obj\Debug\SerialCOMMS.Form1.resources
+D:\Enjineering\Endless Suffering\EERI 474 -Final Year Project\Code\SerialCOMMS\obj\Debug\SerialCOMMS.Properties.Resources.resources
+D:\Enjineering\Endless Suffering\EERI 474 -Final Year Project\Code\SerialCOMMS\obj\Debug\SerialCOMMS.csproj.GenerateResource.cache
+D:\Enjineering\Endless Suffering\EERI 474 -Final Year Project\Code\SerialCOMMS\obj\Debug\SerialCOMMS.csproj.CoreCompileInputs.cache
+D:\Enjineering\Endless Suffering\EERI 474 -Final Year Project\Code\SerialCOMMS\obj\Debug\SerialCOMMS.exe
+D:\Enjineering\Endless Suffering\EERI 474 -Final Year Project\Code\SerialCOMMS\obj\Debug\SerialCOMMS.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialCOMMS", "SerialCOMMS.csproj", "{E01596E1-1F5F-4501-8623-240C7C2D1D77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E01596E1-1F5F-4501-8623-240C7C2D1D77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01596E1-1F5F-4501-8623-240C7C2D1D77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01596E1-1F5F-4501-8623-240C7C2D1D77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01596E1-1F5F-4501-8623-240C7C2D1D77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0619DE33-33D0-442E-930B-597F84AE1C75}
+	EndGlobalSection
+EndGlobal
